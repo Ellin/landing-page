@@ -10,6 +10,7 @@
 
 body {
     font-family: Roboto, sans-serif;
+    font-size: 18px;
     display: flex;
     flex-direction: column;
 }
@@ -87,6 +88,7 @@ blockquote {
 
 .pop-up {
     display: flex;    
+    align-items: center;
     gap: 100px;
     background-color: #3882F6;
     margin: 50px 100px;
@@ -96,8 +98,13 @@ blockquote {
 
 button {
     background-color: #3882F6;
-    border: none;
-    width: 120px;
+    border-style: none;
+    width: 140px;
+    border-radius: 10px;
+    padding: 0.5em 1em;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
 }
 
 .call-to-action button {
@@ -109,6 +116,5 @@ button {
 }
 
 .secondary-text {
-    font-size: 18px;
     color: #E5E7EB;
 }
