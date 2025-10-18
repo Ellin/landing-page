@@ -28,6 +28,7 @@ header {
 .hero h1 {
     font-size: 48px;
     font-weight: 900;
+    margin-bottom: 8px;
 }
 
 nav {
@@ -45,11 +46,16 @@ nav {
 
 .hero {
     display: flex;
+    gap: 3em;
     padding: 150px 0;
 }
 
 .hero-text {
     flex: 1 1 0;
+}
+
+.hero-text p {
+    margin-bottom: 1em;
 }
 
 .hero-image {
