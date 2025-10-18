@@ -60,7 +60,11 @@ nav {
 
 .hero-image {
     flex: 1 1 0;
-    background-color: rgb(190, 190, 190);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(255 255 255 / 50%);
     color: black;
 }
 
