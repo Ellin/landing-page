@@ -127,10 +127,10 @@ blockquote {
 .pop-up {
     display: flex;    
     align-items: center;
-    gap: 100px;
+    gap: 140px;
     background-color: #3882F6;
     margin: 50px 100px;
-    padding: 50px 100px;
+    padding: 50px 140px;
     color: white;
     border-radius: 10px;
 }
