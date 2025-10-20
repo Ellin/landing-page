@@ -1,3 +1,7 @@
-In this project, I make a landing page using a design image as reference.
+# Landing Page
+In this project, I implement a simple landing page template using HTML & CSS based on a static image of the desired layout.
 
-Assignment from The Odin Project - Foundations Course.
+**View project:** https://ellin.github.io/landing-page/
+
+
+[Assignment](https://www.theodinproject.com/lessons/foundations-landing-page) from The Odin Project - Foundations Course. 
