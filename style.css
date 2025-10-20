@@ -161,11 +161,20 @@ button {
     width: 400px;
 }
 
-.secondary-text {
+.secondary-text,
+a {
     color: #E5E7EB;
 }
 
 footer {
     padding: 2em;
     text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #3882F6;
 }
